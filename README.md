@@ -1,4 +1,8 @@
 ***Welcome to my GitHub. The place where I commit the most.***
+
+Hi! I'm Sebastian, I love software development and have a passion for puzzles and problem solving. I am interested in areas such as industrial engineering, product development, and electrical/electronic manufacturing. If you are here, I'd love to have a chat!
+
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sebastian-mendoza482/)
 &nbsp; <br/>
 
